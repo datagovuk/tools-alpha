@@ -1,0 +1,8 @@
+.vagrant
+__pycache__
+location_data/existing_locations.json
+locations.json
+pubinfo/data
+
+# requests cache
+.drupal_dump.sqlite
